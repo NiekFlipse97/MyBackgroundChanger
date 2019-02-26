@@ -1,0 +1,11 @@
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\bin\Debug\MyBackgroundChanger.exe.config
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\bin\Debug\MyBackgroundChanger.exe
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\bin\Debug\MyBackgroundChanger.pdb
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\obj\Debug\MyBackgroundChanger.csproj.CoreCompileInputs.cache
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\obj\Debug\MyBackgroundChanger.exe
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\obj\Debug\MyBackgroundChanger.pdb
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\obj\Debug\MyBackgroundChanger.csproj.CopyComplete
+C:\Users\Niek\source\repos\MyBackgroundChanger\MyBackgroundChanger\obj\Debug\MyBackgroundChanger.csprojAssemblyReference.cache
